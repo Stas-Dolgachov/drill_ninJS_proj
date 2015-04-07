@@ -1,7 +1,7 @@
 {
-  "name": "varCraft-weather",
+  "name": "shop",
   "version": "1.0.0",
-  "description": "first project",
+  "description": "drill project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,16 +11,16 @@
     "url": "https://github.com/frontend-school/varCraft-weather.git"
   },
   "keywords": [
-    "varCraft",
-    "Weather",
+    "shop",
+    "dolgachov",
     "App"
   ],
   "author": "Dolgachov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frontend-school/varCraft-weather/issues"
+    "url": "https://github.com/Stas-Dolgachov/shop.git"
   },
-  "homepage": "https://github.com/frontend-school/varCraft-weather",
+  "homepage": "https://github.com/Stas-Dolgachov/shop.git",
   "devDependencies": {
     "bower": "^1.4.0",
     "browser-sync": "^2.5.2",
